@@ -46,6 +46,7 @@ has_children: true
 | --- |
 | [Leaf Framework](https://leafphp.dev/) |
 | GitHub / [leaf](https://github.com/leafsphp/leaf) |
+| YouTube / [Leaf PHP Framework](https://www.youtube.com/@leafphp) |
 
 
 
