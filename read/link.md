@@ -33,18 +33,27 @@ has_children: true
 
 ## Framework
 
-### Spiral Framework
+## PHP Symfony Framework
 
-| Spiral Framework |
+| PHP Symfony Framework |
 | --- |
-| [Spiral Framework](https://spiral.dev/) |
+| [PHP Symfony Framework](https://symfony.com/) |
+| GitHub / [symfony](https://github.com/symfony) |
+
+
+### PHP Spiral Framework
+
+| PHP Spiral Framework |
+| --- |
+| [PHP Spiral Framework](https://spiral.dev/) |
 | GitHub / [spiral](https://github.com/spiral) |
 
-### Leaf Framework
 
-| Leaf Framework |
+### PHP Leaf Framework
+
+| PHP Leaf Framework |
 | --- |
-| [Leaf Framework](https://leafphp.dev/) |
+| [PHP Leaf Framework](https://leafphp.dev/) |
 | GitHub / [leaf](https://github.com/leafsphp/leaf) |
 | YouTube / [Leaf PHP Framework](https://www.youtube.com/@leafphp) |
 
