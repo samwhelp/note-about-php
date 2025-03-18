@@ -19,9 +19,8 @@
 
 ## 範例
 
-| 範例 |
-| ---- |
 | [範例](https://github.com/samwhelp/note-about-php/tree/gh-pages/_demo) |
+| ---- |
 | [php-template-prototype](https://github.com/samwhelp/note-about-php/tree/gh-pages/_demo/prototype/basic/php-template-prototype) |
 
 
