@@ -12,7 +12,7 @@
 
 | Demo |
 | ---- |
-| [function-edition](php-template-prototype) |
+| [function-edition](function-edition) |
 | [class-edition-basic](class-edition-basic) |
 | [class-edition-advance](class-edition-advance) |
 
