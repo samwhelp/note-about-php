@@ -9,7 +9,7 @@
 	$template_file_path = __DIR__ . '/view/template.php';
 
 
-	$view = new \Demo\View;
+	$view = new \Demo\ViewUtil;
 
 	$content = $view->renderStr($template_file_path, $data);
 

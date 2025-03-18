@@ -3,7 +3,7 @@
 namespace Demo;
 
 
-class View {
+class ViewUtil {
 
 
 	public function render($_ScriptPath_, $_Data_=array())
