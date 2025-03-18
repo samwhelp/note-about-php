@@ -2,18 +2,32 @@
 
 # php-template-prototype
 
-* [Demo](#demo)
+* [Usage](#usage)
 * [Link](#link)
 
 
 
 
-## Demo
+## Usage
 
-| Demo |
-| ---- |
-| [function-edition](php-template-prototype) |
-| [class-edition-basic](class-edition-basic) |
+run
+
+``` sh
+make test
+```
+
+or run
+
+``` sh
+./main.php
+```
+
+or run
+
+``` sh
+php main.php
+```
+
 
 
 
@@ -22,3 +36,4 @@
 * https://www.php.net/manual/en/function.include.php
 * https://www.php.net/manual/en/function.ob-get-contents.php
 * https://www.php.net/manual/en/ref.outcontrol.php
+
